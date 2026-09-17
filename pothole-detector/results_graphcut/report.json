@@ -1,0 +1,112 @@
+[
+  {
+    "filename": "potholes0.png",
+    "damage_area_ratio": 0.022259,
+    "severity": "Medium",
+    "num_regions_detected": 14,
+    "gt_boxes": 12,
+    "best_iou": 0.3753,
+    "mean_iou": 0.1,
+    "processing_time_sec": 0.016,
+    "method": "graphcut"
+  },
+  {
+    "filename": "potholes1.png",
+    "damage_area_ratio": 0.0,
+    "severity": "Low",
+    "num_regions_detected": 0,
+    "gt_boxes": 2,
+    "best_iou": 0.0,
+    "mean_iou": 0.0,
+    "processing_time_sec": 6.192,
+    "method": "graphcut"
+  },
+  {
+    "filename": "potholes10.png",
+    "damage_area_ratio": 0.0,
+    "severity": "Low",
+    "num_regions_detected": 0,
+    "gt_boxes": 2,
+    "best_iou": 0.0,
+    "mean_iou": 0.0,
+    "processing_time_sec": 11.152,
+    "method": "graphcut"
+  },
+  {
+    "filename": "potholes100.png",
+    "damage_area_ratio": 0.0,
+    "severity": "Low",
+    "num_regions_detected": 0,
+    "gt_boxes": 1,
+    "best_iou": 0.0,
+    "mean_iou": 0.0,
+    "processing_time_sec": 5.975,
+    "method": "graphcut"
+  },
+  {
+    "filename": "potholes101.png",
+    "damage_area_ratio": 0.0,
+    "severity": "Low",
+    "num_regions_detected": 0,
+    "gt_boxes": 2,
+    "best_iou": 0.0,
+    "mean_iou": 0.0,
+    "processing_time_sec": 3.818,
+    "method": "graphcut"
+  },
+  {
+    "filename": "potholes102.png",
+    "damage_area_ratio": 0.0,
+    "severity": "Low",
+    "num_regions_detected": 0,
+    "gt_boxes": 1,
+    "best_iou": 0.0,
+    "mean_iou": 0.0,
+    "processing_time_sec": 6.374,
+    "method": "graphcut"
+  },
+  {
+    "filename": "potholes103.png",
+    "damage_area_ratio": 0.0,
+    "severity": "Low",
+    "num_regions_detected": 0,
+    "gt_boxes": 3,
+    "best_iou": 0.0,
+    "mean_iou": 0.0,
+    "processing_time_sec": 4.27,
+    "method": "graphcut"
+  },
+  {
+    "filename": "potholes104.png",
+    "damage_area_ratio": 0.0,
+    "severity": "Low",
+    "num_regions_detected": 0,
+    "gt_boxes": 2,
+    "best_iou": 0.0,
+    "mean_iou": 0.0,
+    "processing_time_sec": 4.098,
+    "method": "graphcut"
+  },
+  {
+    "filename": "potholes105.png",
+    "damage_area_ratio": 0.028725,
+    "severity": "Medium",
+    "num_regions_detected": 5,
+    "gt_boxes": 8,
+    "best_iou": 0.0,
+    "mean_iou": 0.0,
+    "processing_time_sec": 5.256,
+    "method": "graphcut"
+  },
+  {
+    "filename": "potholes106.png",
+    "damage_area_ratio": 0.013183,
+    "severity": "Low",
+    "num_regions_detected": 4,
+    "gt_boxes": 1,
+    "best_iou": 0.0151,
+    "mean_iou": 0.0151,
+    "processing_time_sec": 0.01,
+    "method": "graphcut"
+  }
+]

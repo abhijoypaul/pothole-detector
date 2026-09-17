@@ -1,0 +1,19 @@
+2026-09-12 14:03:43 | INFO    | Pothole Detector started — method=graphcut
+2026-09-12 14:03:43 | INFO    | Input dir : D:\Computer Vision\images
+2026-09-12 14:03:43 | INFO    | Output dir: D:\Computer Vision\pothole-detector\results_graphcut
+2026-09-12 14:03:43 | INFO    | Found 10 images to process
+2026-09-12 14:03:43 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:03:43 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:03:43 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:03:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:04:00 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:04:06 | DEBUG   | Graph-Cut grid: 169×300 = 50700 nodes
+2026-09-12 14:04:10 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:04:16 | DEBUG   | Graph-Cut grid: 192×300 = 57600 nodes
+2026-09-12 14:04:21 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 14:04:25 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:04:30 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:04:30 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:04:30 | INFO    | CSV report written: results_graphcut\report.csv (10 rows)
+2026-09-12 14:04:30 | INFO    | JSON report written: results_graphcut\report.json (10 records)
+2026-09-12 14:04:30 | INFO    | Pipeline complete. Reports at results_graphcut

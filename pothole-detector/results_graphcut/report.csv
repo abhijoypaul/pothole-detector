@@ -1,0 +1,11 @@
+filename,damage_area_ratio,severity,num_regions_detected,gt_boxes,best_iou,mean_iou,processing_time_sec,method
+potholes0.png,0.022259,Medium,14,12,0.3753,0.1,0.016,graphcut
+potholes1.png,0.0,Low,0,2,0.0,0.0,6.192,graphcut
+potholes10.png,0.0,Low,0,2,0.0,0.0,11.152,graphcut
+potholes100.png,0.0,Low,0,1,0.0,0.0,5.975,graphcut
+potholes101.png,0.0,Low,0,2,0.0,0.0,3.818,graphcut
+potholes102.png,0.0,Low,0,1,0.0,0.0,6.374,graphcut
+potholes103.png,0.0,Low,0,3,0.0,0.0,4.27,graphcut
+potholes104.png,0.0,Low,0,2,0.0,0.0,4.098,graphcut
+potholes105.png,0.028725,Medium,5,8,0.0,0.0,5.256,graphcut
+potholes106.png,0.013183,Low,4,1,0.0151,0.0151,0.01,graphcut

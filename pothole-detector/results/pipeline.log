@@ -1,0 +1,775 @@
+2026-09-12 14:10:39 | INFO    | Pothole Detector started — method=graphcut
+2026-09-12 14:10:39 | INFO    | Input dir : D:\Computer Vision\images
+2026-09-12 14:10:39 | INFO    | Output dir: D:\Computer Vision\pothole-detector\results
+2026-09-12 14:10:39 | INFO    | Found 665 images to process
+2026-09-12 14:10:39 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:10:39 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:10:39 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:10:45 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:10:56 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:11:03 | DEBUG   | Graph-Cut grid: 169×300 = 50700 nodes
+2026-09-12 14:11:06 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:11:13 | DEBUG   | Graph-Cut grid: 192×300 = 57600 nodes
+2026-09-12 14:11:18 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 14:11:22 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:11:28 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:11:28 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:11:28 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:11:33 | DEBUG   | Graph-Cut grid: 203×300 = 60900 nodes
+2026-09-12 14:11:39 | DEBUG   | Graph-Cut grid: 132×300 = 39600 nodes
+2026-09-12 14:11:42 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:11:56 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:12:04 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:12:17 | DEBUG   | Graph-Cut grid: 185×300 = 55500 nodes
+2026-09-12 14:12:23 | DEBUG   | Graph-Cut grid: 177×300 = 53100 nodes
+2026-09-12 14:12:27 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:12:42 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:12:55 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:12:55 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:12:55 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:13:08 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:13:08 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:13:08 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:13:20 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:13:25 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:13:25 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:13:25 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:13:29 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:13:40 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:13:40 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:13:40 | DEBUG   | Graph-Cut grid: 221×300 = 66300 nodes
+2026-09-12 14:13:46 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:13:49 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:13:53 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:14:03 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:14:14 | DEBUG   | Graph-Cut grid: 165×300 = 49500 nodes
+2026-09-12 14:14:17 | DEBUG   | Graph-Cut grid: 189×300 = 56700 nodes
+2026-09-12 14:14:22 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:14:27 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:14:37 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:14:37 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:14:37 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:14:47 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:14:59 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:15:10 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:15:10 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:15:10 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:15:13 | DEBUG   | Graph-Cut grid: 213×300 = 63900 nodes
+2026-09-12 14:15:18 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:15:28 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:15:38 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:15:48 | DEBUG   | Graph-Cut grid: 205×300 = 61500 nodes
+2026-09-12 14:15:53 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:15:57 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:16:00 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:16:06 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:16:09 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:16:13 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:16:18 | DEBUG   | Graph-Cut grid: 234×300 = 70200 nodes
+2026-09-12 14:16:23 | DEBUG   | Graph-Cut grid: 300×203 = 60900 nodes
+2026-09-12 14:16:28 | DEBUG   | Graph-Cut grid: 201×300 = 60300 nodes
+2026-09-12 14:16:32 | DEBUG   | Graph-Cut grid: 198×300 = 59400 nodes
+2026-09-12 14:16:32 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:16:32 | DEBUG   | Graph-Cut grid: 248×300 = 74400 nodes
+2026-09-12 14:16:39 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:16:39 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:16:39 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:16:45 | DEBUG   | Graph-Cut grid: 202×300 = 60600 nodes
+2026-09-12 14:16:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:16:49 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:16:49 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:16:49 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:16:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:16:49 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:16:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:16:49 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:16:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:16:49 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:16:49 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:16:49 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:16:50 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:16:59 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:17:09 | DEBUG   | Graph-Cut grid: 205×300 = 61500 nodes
+2026-09-12 14:17:14 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:17:23 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:17:33 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:17:36 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:17:45 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:17:48 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:17:53 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:18:03 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:18:07 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:18:12 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:18:16 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:18:16 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:18:16 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:18:16 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:18:16 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:18:21 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:18:30 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:18:40 | DEBUG   | Graph-Cut grid: 268×300 = 80400 nodes
+2026-09-12 14:18:48 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:18:57 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:18:57 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:18:57 | DEBUG   | Graph-Cut grid: 129×300 = 38700 nodes
+2026-09-12 14:18:59 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:19:09 | DEBUG   | Graph-Cut grid: 157×300 = 47100 nodes
+2026-09-12 14:19:12 | DEBUG   | Graph-Cut grid: 194×300 = 58200 nodes
+2026-09-12 14:19:15 | DEBUG   | Graph-Cut grid: 195×300 = 58500 nodes
+2026-09-12 14:19:19 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:19:24 | DEBUG   | Graph-Cut grid: 161×300 = 48300 nodes
+2026-09-12 14:19:27 | DEBUG   | Graph-Cut grid: 206×300 = 61800 nodes
+2026-09-12 14:19:32 | DEBUG   | Graph-Cut grid: 224×300 = 67200 nodes
+2026-09-12 14:19:38 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:19:41 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:19:44 | DEBUG   | Graph-Cut grid: 195×300 = 58500 nodes
+2026-09-12 14:19:47 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:19:52 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:19:52 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:19:52 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:20:01 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:20:06 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:20:06 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:20:06 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:20:15 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:20:15 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:20:15 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:20:20 | DEBUG   | Graph-Cut grid: 300×199 = 59700 nodes
+2026-09-12 14:20:24 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:20:34 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:20:34 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:20:34 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:20:39 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:20:48 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:20:58 | DEBUG   | Graph-Cut grid: 300×226 = 67800 nodes
+2026-09-12 14:21:03 | DEBUG   | Graph-Cut grid: 198×300 = 59400 nodes
+2026-09-12 14:21:03 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:21:03 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:21:13 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:21:18 | DEBUG   | Graph-Cut grid: 198×300 = 59400 nodes
+2026-09-12 14:21:22 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:21:31 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:21:41 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:21:51 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:21:55 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:22:05 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:22:14 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:22:24 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:22:29 | DEBUG   | Graph-Cut grid: 111×300 = 33300 nodes
+2026-09-12 14:22:30 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:22:39 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:22:44 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:22:48 | DEBUG   | Graph-Cut grid: 211×300 = 63300 nodes
+2026-09-12 14:22:53 | DEBUG   | Graph-Cut grid: 178×300 = 53400 nodes
+2026-09-12 14:22:56 | DEBUG   | Graph-Cut grid: 150×300 = 45000 nodes
+2026-09-12 14:22:59 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:23:04 | DEBUG   | Graph-Cut grid: 162×300 = 48600 nodes
+2026-09-12 14:23:07 | DEBUG   | Graph-Cut grid: 243×300 = 72900 nodes
+2026-09-12 14:23:13 | DEBUG   | Graph-Cut grid: 156×300 = 46800 nodes
+2026-09-12 14:23:16 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:23:21 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:23:26 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:23:31 | DEBUG   | Graph-Cut grid: 169×300 = 50700 nodes
+2026-09-12 14:23:34 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:23:44 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:23:47 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 14:23:51 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:23:51 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:23:51 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:23:51 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:23:51 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:23:51 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:23:51 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:24:01 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:24:04 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:24:14 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:24:24 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:24:24 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:24:24 | DEBUG   | Graph-Cut grid: 150×300 = 45000 nodes
+2026-09-12 14:24:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:24:26 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:24:26 | DEBUG   | Graph-Cut grid: 170×300 = 51000 nodes
+2026-09-12 14:24:29 | DEBUG   | Graph-Cut grid: 241×300 = 72300 nodes
+2026-09-12 14:24:36 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:24:46 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:24:55 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:25:05 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:25:11 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:25:21 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:25:31 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:25:34 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:25:44 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:25:48 | DEBUG   | Graph-Cut grid: 157×300 = 47100 nodes
+2026-09-12 14:25:51 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:26:01 | DEBUG   | Graph-Cut grid: 198×300 = 59400 nodes
+2026-09-12 14:26:05 | DEBUG   | Graph-Cut grid: 135×300 = 40500 nodes
+2026-09-12 14:26:07 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:26:13 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:26:17 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:26:20 | DEBUG   | Graph-Cut grid: 126×300 = 37800 nodes
+2026-09-12 14:26:20 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:26:20 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:26:29 | DEBUG   | Graph-Cut grid: 235×300 = 70500 nodes
+2026-09-12 14:26:35 | DEBUG   | Graph-Cut grid: 177×300 = 53100 nodes
+2026-09-12 14:26:38 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:26:44 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:26:48 | DEBUG   | Graph-Cut grid: 215×300 = 64500 nodes
+2026-09-12 14:26:53 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:26:59 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:27:04 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:27:04 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:27:05 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:27:14 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:27:20 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:27:30 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:27:39 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:27:39 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:27:39 | DEBUG   | Graph-Cut grid: 185×300 = 55500 nodes
+2026-09-12 14:27:43 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:27:49 | DEBUG   | Graph-Cut grid: 173×300 = 51900 nodes
+2026-09-12 14:27:52 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:28:02 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:28:12 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:28:21 | DEBUG   | Graph-Cut grid: 300×203 = 60900 nodes
+2026-09-12 14:28:26 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:28:31 | DEBUG   | Graph-Cut grid: 154×300 = 46200 nodes
+2026-09-12 14:28:33 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:28:44 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:28:54 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:29:03 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:29:03 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:29:03 | DEBUG   | Graph-Cut grid: 195×300 = 58500 nodes
+2026-09-12 14:29:03 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:29:03 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:29:13 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:29:23 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:29:33 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:29:43 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:29:53 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:29:53 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:29:53 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 14:29:56 | DEBUG   | Graph-Cut grid: 130×300 = 39000 nodes
+2026-09-12 14:29:58 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:30:08 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:30:13 | DEBUG   | Graph-Cut grid: 196×300 = 58800 nodes
+2026-09-12 14:30:17 | DEBUG   | Graph-Cut grid: 196×300 = 58800 nodes
+2026-09-12 14:30:21 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:30:26 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:30:31 | DEBUG   | Graph-Cut grid: 176×300 = 52800 nodes
+2026-09-12 14:30:35 | DEBUG   | Graph-Cut grid: 197×300 = 59100 nodes
+2026-09-12 14:30:39 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:30:42 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:30:52 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:31:02 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:31:12 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:31:16 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:31:16 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:31:16 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:31:16 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:31:16 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:31:25 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:31:35 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:31:44 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:31:54 | DEBUG   | Graph-Cut grid: 157×300 = 47100 nodes
+2026-09-12 14:31:57 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:32:01 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:32:11 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:32:11 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:32:11 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:32:20 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:32:23 | DEBUG   | Graph-Cut grid: 167×300 = 50100 nodes
+2026-09-12 14:32:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:32:36 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:32:46 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:32:51 | DEBUG   | Graph-Cut grid: 105×300 = 31500 nodes
+2026-09-12 14:32:52 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:33:02 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:33:05 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:33:15 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:33:24 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:33:34 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:33:39 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:33:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:33:49 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:33:49 | DEBUG   | Graph-Cut grid: 300×204 = 61200 nodes
+2026-09-12 14:33:53 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:34:03 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:34:08 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:34:13 | DEBUG   | Graph-Cut grid: 203×300 = 60900 nodes
+2026-09-12 14:34:17 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:34:20 | DEBUG   | Graph-Cut grid: 236×300 = 70800 nodes
+2026-09-12 14:34:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:34:36 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 14:34:40 | DEBUG   | Graph-Cut grid: 224×300 = 67200 nodes
+2026-09-12 14:34:46 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:34:50 | DEBUG   | Graph-Cut grid: 197×300 = 59100 nodes
+2026-09-12 14:34:55 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:34:59 | DEBUG   | Graph-Cut grid: 150×300 = 45000 nodes
+2026-09-12 14:35:01 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:35:04 | DEBUG   | Graph-Cut grid: 193×300 = 57900 nodes
+2026-09-12 14:35:09 | DEBUG   | Graph-Cut grid: 157×300 = 47100 nodes
+2026-09-12 14:35:11 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:35:21 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:35:21 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:35:21 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:35:31 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:35:36 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:35:41 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:35:51 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:36:00 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:36:10 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:36:13 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:36:17 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:36:27 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:36:37 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:36:37 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:36:37 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:36:41 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:36:51 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:36:54 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:36:59 | DEBUG   | Graph-Cut grid: 300×202 = 60600 nodes
+2026-09-12 14:37:04 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:37:13 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:37:19 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:37:24 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:37:34 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:37:44 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:37:54 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:37:54 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:37:54 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:38:04 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:38:07 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:38:07 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:38:07 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:38:18 | DEBUG   | Graph-Cut grid: 193×300 = 57900 nodes
+2026-09-12 14:38:24 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:38:31 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:38:35 | DEBUG   | Graph-Cut grid: 245×300 = 73500 nodes
+2026-09-12 14:38:41 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:38:47 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:38:56 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:38:59 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:39:02 | DEBUG   | Graph-Cut grid: 300×243 = 72900 nodes
+2026-09-12 14:39:08 | DEBUG   | Graph-Cut grid: 184×300 = 55200 nodes
+2026-09-12 14:39:11 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:39:11 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:39:11 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:39:16 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:39:21 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:39:24 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:39:26 | DEBUG   | Graph-Cut grid: 165×300 = 49500 nodes
+2026-09-12 14:39:29 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:39:32 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:39:42 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:39:46 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:39:51 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:40:00 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:40:09 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:40:18 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:40:18 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:40:18 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:40:22 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:40:31 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:40:40 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 14:40:43 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:40:47 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:40:52 | DEBUG   | Graph-Cut grid: 224×300 = 67200 nodes
+2026-09-12 14:40:58 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:41:07 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:41:10 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:41:10 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:41:10 | DEBUG   | Graph-Cut grid: 221×300 = 66300 nodes
+2026-09-12 14:41:15 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:41:24 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:41:33 | DEBUG   | Graph-Cut grid: 174×300 = 52200 nodes
+2026-09-12 14:41:36 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:41:41 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:41:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:41:58 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:41:58 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:41:58 | DEBUG   | Graph-Cut grid: 206×300 = 61800 nodes
+2026-09-12 14:42:03 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:42:08 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:42:08 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:42:08 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 14:42:11 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:42:13 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:42:18 | DEBUG   | Graph-Cut grid: 149×300 = 44700 nodes
+2026-09-12 14:42:20 | DEBUG   | Graph-Cut grid: 167×300 = 50100 nodes
+2026-09-12 14:42:23 | DEBUG   | Graph-Cut grid: 183×300 = 54900 nodes
+2026-09-12 14:42:26 | DEBUG   | Graph-Cut grid: 131×300 = 39300 nodes
+2026-09-12 14:42:28 | DEBUG   | Graph-Cut grid: 227×300 = 68100 nodes
+2026-09-12 14:42:33 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:42:41 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:42:41 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:42:41 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:42:45 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:42:50 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:42:52 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:42:56 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:42:59 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:43:02 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:43:08 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:43:16 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:43:16 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:43:17 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:43:22 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:43:31 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:43:40 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:43:44 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:43:48 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:43:57 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:44:06 | DEBUG   | Graph-Cut grid: 165×300 = 49500 nodes
+2026-09-12 14:44:09 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:44:18 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:44:18 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:44:18 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:44:21 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:44:30 | DEBUG   | Graph-Cut grid: 300×200 = 60000 nodes
+2026-09-12 14:44:34 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:44:39 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:44:39 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:44:39 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:44:48 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:44:53 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:45:02 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:45:11 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:45:20 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:45:20 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:45:20 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:45:32 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:45:32 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:45:32 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:45:42 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:45:42 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:45:42 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:45:55 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:46:08 | DEBUG   | Graph-Cut grid: 117×300 = 35100 nodes
+2026-09-12 14:46:11 | DEBUG   | Graph-Cut grid: 224×300 = 67200 nodes
+2026-09-12 14:46:22 | DEBUG   | Graph-Cut grid: 211×300 = 63300 nodes
+2026-09-12 14:46:25 | DEBUG   | Graph-Cut grid: 220×300 = 66000 nodes
+2026-09-12 14:46:29 | DEBUG   | Graph-Cut grid: 186×300 = 55800 nodes
+2026-09-12 14:46:32 | DEBUG   | Graph-Cut grid: 191×300 = 57300 nodes
+2026-09-12 14:46:35 | DEBUG   | Graph-Cut grid: 300×223 = 66900 nodes
+2026-09-12 14:46:40 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:46:40 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:46:40 | DEBUG   | Graph-Cut grid: 196×300 = 58800 nodes
+2026-09-12 14:46:45 | DEBUG   | Graph-Cut grid: 198×300 = 59400 nodes
+2026-09-12 14:46:48 | DEBUG   | Graph-Cut grid: 210×300 = 63000 nodes
+2026-09-12 14:46:54 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:46:59 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:47:02 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:47:05 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:47:09 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:47:09 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:47:09 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:47:19 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:47:22 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:47:31 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:47:31 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:47:31 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:47:31 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:47:31 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:47:31 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:47:31 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:47:34 | DEBUG   | Graph-Cut grid: 176×300 = 52800 nodes
+2026-09-12 14:47:38 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:47:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:47:53 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:47:54 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:01 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:48:02 | DEBUG   | Graph-Cut grid: 196×300 = 58800 nodes
+2026-09-12 14:48:04 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:48:05 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:48:09 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:09 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:48:09 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:09 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:48:09 | DEBUG   | Graph-Cut grid: 250×300 = 75000 nodes
+2026-09-12 14:48:13 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:19 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:19 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:48:19 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:26 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:48:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:32 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:37 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:41 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:47 | DEBUG   | Graph-Cut grid: 297×300 = 89100 nodes
+2026-09-12 14:48:53 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:48:58 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:49:03 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:49:06 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:49:11 | DEBUG   | Graph-Cut grid: 182×300 = 54600 nodes
+2026-09-12 14:49:13 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:49:15 | DEBUG   | Graph-Cut grid: 203×300 = 60900 nodes
+2026-09-12 14:49:17 | DEBUG   | Graph-Cut grid: 175×300 = 52500 nodes
+2026-09-12 14:49:19 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:49:21 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:49:23 | DEBUG   | Graph-Cut grid: 211×300 = 63300 nodes
+2026-09-12 14:49:26 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:49:29 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:49:31 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:49:32 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:49:32 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:49:32 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:49:38 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:49:41 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:49:43 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:49:45 | DEBUG   | Graph-Cut grid: 224×300 = 67200 nodes
+2026-09-12 14:49:48 | DEBUG   | Graph-Cut grid: 300×252 = 75600 nodes
+2026-09-12 14:49:53 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:49:56 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:49:56 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:49:56 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:01 | DEBUG   | Graph-Cut grid: 157×300 = 47100 nodes
+2026-09-12 14:50:03 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:03 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:50:03 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:10 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:14 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:19 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:19 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:50:20 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:31 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:31 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:50:31 | DEBUG   | Graph-Cut grid: 222×300 = 66600 nodes
+2026-09-12 14:50:34 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:50:36 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:43 | DEBUG   | Graph-Cut grid: 201×300 = 60300 nodes
+2026-09-12 14:50:45 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:51 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:50:57 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:50:58 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:51:00 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:51:03 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:08 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:12 | DEBUG   | Graph-Cut grid: 169×300 = 50700 nodes
+2026-09-12 14:51:13 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:51:15 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:15 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:51:15 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:19 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:51:21 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:25 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:29 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:29 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:51:29 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:29 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:51:29 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:51:32 | DEBUG   | Graph-Cut grid: 138×300 = 41400 nodes
+2026-09-12 14:51:33 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:38 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:51:41 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:51:45 | DEBUG   | Graph-Cut grid: 196×300 = 58800 nodes
+2026-09-12 14:51:48 | DEBUG   | Graph-Cut grid: 300×168 = 50400 nodes
+2026-09-12 14:51:49 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:51:51 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:51:54 | DEBUG   | Graph-Cut grid: 260×300 = 78000 nodes
+2026-09-12 14:51:58 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:52:00 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:52:02 | DEBUG   | Graph-Cut grid: 197×300 = 59100 nodes
+2026-09-12 14:52:05 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:52:09 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:52:11 | DEBUG   | Graph-Cut grid: 150×300 = 45000 nodes
+2026-09-12 14:52:12 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:52:17 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:52:17 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:52:17 | DEBUG   | Graph-Cut grid: 223×300 = 66900 nodes
+2026-09-12 14:52:21 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:52:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:52:33 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:52:36 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:52:43 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:52:43 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:52:43 | DEBUG   | Graph-Cut grid: 193×300 = 57900 nodes
+2026-09-12 14:52:47 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:52:55 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:53:02 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:53:02 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:53:02 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:53:10 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:53:17 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:53:17 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:53:17 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:53:22 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:53:30 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:53:34 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:53:34 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:53:34 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:53:41 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:53:45 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 14:53:48 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:53:52 | DEBUG   | Graph-Cut grid: 132×300 = 39600 nodes
+2026-09-12 14:53:54 | DEBUG   | Graph-Cut grid: 267×300 = 80100 nodes
+2026-09-12 14:54:00 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:54:04 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:54:12 | DEBUG   | Graph-Cut grid: 133×300 = 39900 nodes
+2026-09-12 14:54:13 | DEBUG   | Graph-Cut grid: 170×300 = 51000 nodes
+2026-09-12 14:54:16 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:54:23 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:54:30 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:54:38 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:54:38 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:54:38 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:54:45 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:54:50 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:54:50 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:54:50 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:54:57 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:55:02 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:55:02 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:55:02 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:55:02 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:55:02 | DEBUG   | Graph-Cut grid: 150×300 = 45000 nodes
+2026-09-12 14:55:04 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:55:07 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:55:11 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:55:14 | DEBUG   | Graph-Cut grid: 198×300 = 59400 nodes
+2026-09-12 14:55:17 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:55:21 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:55:23 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:55:28 | DEBUG   | Graph-Cut grid: 166×300 = 49800 nodes
+2026-09-12 14:55:30 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:55:33 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:55:36 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:55:39 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:55:42 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:55:45 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:55:49 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:55:53 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:56:00 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:56:04 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:56:11 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:56:15 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:56:17 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:56:25 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:56:25 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:56:25 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:56:33 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:56:33 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:56:33 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:56:41 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:56:48 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:56:48 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:56:48 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:56:51 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:56:55 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:57:03 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:57:11 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:57:15 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:57:15 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:57:15 | DEBUG   | Graph-Cut grid: 172×300 = 51600 nodes
+2026-09-12 14:57:17 | DEBUG   | Graph-Cut grid: 178×300 = 53400 nodes
+2026-09-12 14:57:20 | DEBUG   | Graph-Cut grid: 166×300 = 49800 nodes
+2026-09-12 14:57:23 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:57:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:57:26 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:57:26 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:57:26 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:57:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:57:33 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:57:37 | DEBUG   | Graph-Cut grid: 193×300 = 57900 nodes
+2026-09-12 14:57:40 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:57:48 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:57:56 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:57:56 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:57:56 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:58:03 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:58:11 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:58:19 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:58:21 | DEBUG   | Graph-Cut grid: 300×252 = 75600 nodes
+2026-09-12 14:58:26 | DEBUG   | Graph-Cut grid: 210×300 = 63000 nodes
+2026-09-12 14:58:30 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:58:38 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:58:46 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:58:49 | DEBUG   | Graph-Cut grid: 211×300 = 63300 nodes
+2026-09-12 14:58:53 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:58:53 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:58:53 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:58:55 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 14:58:59 | DEBUG   | Graph-Cut grid: 150×300 = 45000 nodes
+2026-09-12 14:59:01 | DEBUG   | Graph-Cut grid: 186×300 = 55800 nodes
+2026-09-12 14:59:04 | DEBUG   | Graph-Cut grid: 194×300 = 58200 nodes
+2026-09-12 14:59:07 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:59:11 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 14:59:11 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:59:11 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 14:59:15 | DEBUG   | Graph-Cut grid: 198×300 = 59400 nodes
+2026-09-12 14:59:19 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:59:27 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:59:29 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:59:32 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:59:35 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:59:42 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 14:59:46 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:59:48 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 14:59:51 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:59:58 | DEBUG   | Graph-Cut grid: 190×300 = 57000 nodes
+2026-09-12 14:59:58 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:59:58 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 14:59:58 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 14:59:58 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:00:06 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:00:06 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:00:06 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:00:13 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:00:13 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:00:13 | DEBUG   | Graph-Cut grid: 300×225 = 67500 nodes
+2026-09-12 15:00:18 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:00:26 | DEBUG   | Graph-Cut grid: 205×300 = 61500 nodes
+2026-09-12 15:00:29 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:00:29 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:00:29 | DEBUG   | Graph-Cut grid: 197×300 = 59100 nodes
+2026-09-12 15:00:33 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:00:41 | DEBUG   | Graph-Cut grid: 196×300 = 58800 nodes
+2026-09-12 15:00:41 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:00:41 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 15:00:43 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 15:00:46 | DEBUG   | Graph-Cut grid: 201×300 = 60300 nodes
+2026-09-12 15:00:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:00:57 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:00:57 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:00:57 | DEBUG   | Graph-Cut grid: 170×300 = 51000 nodes
+2026-09-12 15:01:00 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:01:00 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:01:00 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:01:07 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 15:01:11 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:01:11 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:01:11 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:01:19 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:01:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:01:34 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:01:34 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:01:34 | DEBUG   | Graph-Cut grid: 199×300 = 59700 nodes
+2026-09-12 15:01:38 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:01:45 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:01:53 | DEBUG   | Graph-Cut grid: 180×300 = 54000 nodes
+2026-09-12 15:01:56 | DEBUG   | Graph-Cut grid: 200×300 = 60000 nodes
+2026-09-12 15:01:59 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:02:07 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 15:02:11 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:02:11 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:02:11 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 15:02:15 | DEBUG   | Graph-Cut grid: 168×300 = 50400 nodes
+2026-09-12 15:02:18 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:02:26 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:02:33 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:02:33 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:02:33 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:02:41 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:02:41 | WARNING | Seed mask has single class — returning threshold result
+2026-09-12 15:02:41 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:02:49 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:02:56 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:03:04 | DEBUG   | Graph-Cut grid: 225×300 = 67500 nodes
+2026-09-12 15:03:08 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:03:16 | DEBUG   | Graph-Cut grid: 300×300 = 90000 nodes
+2026-09-12 15:03:24 | DEBUG   | Graph-Cut grid: 150×300 = 45000 nodes
+2026-09-12 15:03:25 | DEBUG   | Graph-Cut grid: 187×300 = 56100 nodes
+2026-09-12 15:03:28 | INFO    | CSV report written: results\report.csv (665 rows)
+2026-09-12 15:03:28 | INFO    | JSON report written: results\report.json (665 records)
+2026-09-12 15:03:28 | INFO    | Pipeline complete. Reports at results
